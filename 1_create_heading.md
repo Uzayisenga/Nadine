@@ -2,6 +2,7 @@
 
 ## Introduction to html
 1. Creating a Simple Page
+1. What Are HTML Tags?
 1. Marking Up Text
 1. Adding Links
 1. Adding Images
